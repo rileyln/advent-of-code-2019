@@ -1,7 +1,6 @@
 # Author: Riley Lynn Nairn (she, her)
-# Date: 2019 December 12
+# Date: 2019 December 15
 # Description: Advent of Code - Day Two, Star Two
-import sys
 
 with open("/users/riley/downloads/day2star1.txt") as file:
     data = file.read()
