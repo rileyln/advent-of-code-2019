@@ -132,5 +132,4 @@ def get_distance_to_fastest_intersection(points):
 
 
 
-
 print("Lowest number of steps:", get_distance_to_fastest_intersection(intersections))
